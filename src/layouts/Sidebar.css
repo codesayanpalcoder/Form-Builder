@@ -1,0 +1,29 @@
+aside {
+    background-color: #F6F6FF;
+    color: white;
+    width: 80px;
+    height: 100vh;
+   margin-left: 30px;
+    top: 5px;
+    left: 80px;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+
+
+
+.navbar-nav .nav-item {
+    width: 40px;
+    height: 70px;
+    top: 109px;
+    left: 50px;
+    right:50px;
+   
+    
+}
+
+.dropdown-menu-right{
+    margin-left: 70px;
+}

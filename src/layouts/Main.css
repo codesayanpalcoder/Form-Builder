@@ -1,0 +1,13 @@
+/* Add this CSS to your Main.css file or appropriate styling file */
+
+.SideMenuAndPageContent {
+    display: flex;
+    justify-content: flex-start; /* Aligns items at the start of the container */
+    gap: 40px; /* Adds a 40px gap between the two sections */
+  }
+  
+  /* Adjust the width of each section to fit your layout */
+  .SideMenuAndPageContent > div {
+    flex: 1; /* Each section takes up equal space */
+  }
+  
